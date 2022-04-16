@@ -1,12 +1,15 @@
 # Voron 2.4 Pull-out electrical Store 抽拉式电器仓
 
 ## 适用
-Only aimed at Voron V2.4 350mm printer now.
+
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|ZZP8202|[Pull-out_electrical_store](./)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+|ZZP8202|[Pull-out_electrical_store](https://github.com/zzp8202/Pull-out_electrical_store)| Voron 2.4 Pull-out electrical Store |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+
+Only aimed at Voron V2.4 350mm printer now.
 
 目前只适用于Voron V2.4 350mm 机型。
+
 
 ## Overall 总览
 

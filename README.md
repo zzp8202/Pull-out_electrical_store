@@ -15,6 +15,10 @@ https://www.bilibili.com/video/BV1iS4y1w7My?share_source=copy_web
 
 https://www.youtube.com/embed/usf8aM6o3Y0
 
+https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
+
+https://www.youtube.com/embed/9XUpTigEtQ4
+
 ## Objectives
 
 The objectives for this project are:

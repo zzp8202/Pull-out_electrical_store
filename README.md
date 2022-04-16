@@ -11,8 +11,9 @@ Only aimed at Voron V2.4 350mm printer now.
 
 ![图片](Photos/Voron_V2.4_Pull-out_electrical_store.PNG)
 ### video
+https://www.bilibili.com/video/BV1iS4y1w7My?share_source=copy_web
 
-
+https://www.youtube.com/embed/usf8aM6o3Y0
 
 ## Objectives
 

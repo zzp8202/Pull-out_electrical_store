@@ -28,6 +28,7 @@ The objectives for this project are:
 - 
 ## Bill of Materials (BOM)
 
+待补充 to be supplemented
 
 ## Donate
 You want to donate something regarding this project? No, you can't. :)
